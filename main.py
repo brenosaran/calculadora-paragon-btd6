@@ -61,88 +61,88 @@ valores = {
         'Normal': 150000,
         'Difícil': 162000,
         'Extremo': 180000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\Paragon-ApexPlasmaMaster.png'
+        'imagem' : 'images\\Paragon-ApexPlasmaMaster.png'
     },
     'Boomerang' : {
         'Fácil': 212500,
         'Normal': 250000,
         'Difícil': 270000,
         'Extremo': 300000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\ParagonGlaiveDominus.webp'
+        'imagem' : 'images\\ParagonGlaiveDominus.webp'
     },
     'Bomb': {
         'Fácil': 510000,
         'Normal': 600000,
         'Difícil': 648000,
         'Extremo': 720000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\Paragon-BallisticObliterationMissileBunker.png'
+        'imagem' : 'images\\Paragon-BallisticObliterationMissileBunker.png'
     },
     'Tack Shooter': {
         'Fácil': 637500,
         'Normal': 750000,
         'Difícil': 810000,
         'Extremo': 900000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\Paragon-CycloneOfFireAndMetal.png'
+        'imagem' : 'images\\Paragon-CycloneOfFireAndMetal.png'
     },
     'Monkey Sub': {
         'Fácil': 340000,
         'Normal': 400000,
         'Difícil': 432000,
         'Extremo': 480000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\Paragon-NauticSiegeCore.png'
+        'imagem' : 'images\\Paragon-NauticSiegeCore.png'
     },
     'Buccaneer': {
         'Fácil': 467500,
         'Normal': 550000,
         'Difícil': 594000,
         'Extremo': 660000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\Paragon-NavarchOfTheSeas.png'
+        'imagem' : 'images\\Paragon-NavarchOfTheSeas.png'
     },
     'Monkey Ace': {
         'Fácil': 765000,
         'Normal': 900000,
         'Difícil': 972000,
         'Extremo': 1080000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\Paragon-GoliathDoomship.png'
+        'imagem' : 'images\\Paragon-GoliathDoomship.png'
     },
     'Wizard': {
         'Fácil': 680000,
         'Normal': 800000,
         'Difícil': 864000,
         'Extremo': 960000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\Paragon-MagusPerfectus.png'
+        'imagem' : 'images\\Paragon-MagusPerfectus.png'
     },
     'Ninja': {
         'Fácil': 425000,
         'Normal': 500000,
         'Difícil': 540000,
         'Extremo': 600000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\Paragon-AscendedShadow.webp'
+        'imagem' : 'images\\Paragon-AscendedShadow.webp'
     },
     'Spike Factory': {
         'Fácil': 637500,
         'Normal': 750000,
         'Difícil': 810000,
         'Extremo': 900000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\SpikeFactoryParagon.png'
+        'imagem' : 'images\\SpikeFactoryParagon.png'
     },
     'Engineer': {
         'Fácil': 552500,
         'Normal': 650000,
         'Difícil': 702000,
         'Extremo': 780000,
-        'imagem' : 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\Paragon-MasterBuilder.png'
+        'imagem' : 'images\\Paragon-MasterBuilder.png'
     }
 }
 
 imagem_modos = {
-    'Fácil': 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\ModeSelectEasyBtn.webp',
-    'Normal': 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\ModeSelectMediumBtn.webp',
-    'Difícil': 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\ModeSelectHardBtn.webp',
-    'Extremo': 'C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\ImpoppableBtn.webp'
+    'Fácil': 'images\\ModeSelectEasyBtn.webp',
+    'Normal': 'images\\ModeSelectMediumBtn.webp',
+    'Difícil': 'images\\ModeSelectHardBtn.webp',
+    'Extremo': 'images\\ImpoppableBtn.webp'
 }
 
-st.set_page_config(page_title='Calculadora Paragon', page_icon='C:\\Users\\breno\\Documents\\streamlit\\BTD6\\images\\ParagonIcon.webp', layout='wide')
+st.set_page_config(page_title='Calculadora Paragon', page_icon='images\\ParagonIcon.webp', layout='wide')
 st.title('Calculadora de Nível de Paragon')
 
 # Filtros e inputs do Streamlit
