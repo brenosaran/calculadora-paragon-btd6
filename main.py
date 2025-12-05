@@ -132,6 +132,13 @@ valores = {
         'Difícil': 702000,
         'Extremo': 780000,
         'imagem' : 'images/Paragon-MasterBuilder.png'
+    },
+    'Ice Monkey':{
+        'Fácil': 255000,
+        'Normal': 300000,
+        'Difícil':324000,
+        'Extremo': 360000,
+        'imagem': 'images/Herald.webp'
     }
 }
 
